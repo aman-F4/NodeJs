@@ -1,1 +1,1 @@
-we will studey about NODEJS here
+We will study about NODEJS here
